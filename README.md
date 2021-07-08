@@ -2,7 +2,7 @@
 
 ## I am an electronic engeneer getting a Master's degree in biomedical engeneer. I love working with medical images and create new ways to make day to day life easier.
 
-- 💻 I’m a Electronic Engeneer
+- 💻 I’m an Electronic Engeneer
 - 💻 I'm also getting my Master's degree in medical image filed
 - 📈 I’m constantly learning and Improving my skills 🤣
 - 📊 I’m looking to collaborate with other scientists and developers 
