@@ -1,4 +1,4 @@
-### Gabriela Barbosa - [Electronic Engeneer] 👋
+### Gabriela Barbosa - Electronic Engeneer 👋
 
 ## I am an electronic engeneer getting a Master's degree in biomedical engeneer. I love working with medical images and create new ways to make day to day life easier.
 
