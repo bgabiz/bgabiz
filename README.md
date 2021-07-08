@@ -29,7 +29,7 @@
 
 <img align="left" alt="OpeCv" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
 
-<img align="left" alt="Matlab" width="26px" src="https://e7.pngegg.com/pngimages/717/647/png-clipart-logo-karlovac-brand-graphic-design-font-matlab-logo-karlovac-thumbnail.png" />
+<img align="left" alt="Matlab" width="26px" src="![image](https://user-images.githubusercontent.com/12914030/124988931-ff2c6780-e014-11eb-843d-e6c963c1608a.png)" />
 
 <img align="left" alt="SciPy" width="26px" src="https://static.wixstatic.com/media/2826fb_58f8e3139f6a4c24b546acad1a73a4d2~mv2.png/v1/fill/w_184,h_164,al_c,q_85,usm_0.66_1.00_0.01/SciPy%20Icon.webp" />
 
