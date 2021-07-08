@@ -13,7 +13,7 @@
 
 [<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@bsgabieng)
 
-[<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/bgabiz/)
+[<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/bgabizz/)
 
 
 
@@ -29,11 +29,9 @@
 
 <img align="left" alt="OpeCv" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
 
-<img align="left" alt="Matlab" width="26px" src="https://e7.pngegg.com/pngimages/717/647/png-clipart-logo-karlovac-brand-graphic-design-font-matlab-logo-karlovac-thumbnail.png" />
+<img align="left" alt="Matlab" width="26px" src="https://assets.nvidiagrid.net/ngc/logos/ISV-OSS-Non-Nvidia-Publishing-Matlab.png" />
 
 <img align="left" alt="SciPy" width="26px" src="https://static.wixstatic.com/media/2826fb_58f8e3139f6a4c24b546acad1a73a4d2~mv2.png/v1/fill/w_184,h_164,al_c,q_85,usm_0.66_1.00_0.01/SciPy%20Icon.webp" />
-
-<img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
@@ -48,9 +46,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-* [Buying a car as a Data Scientist](https://towardsdatascience.com/buying-a-car-as-a-data-scientist-5a2f9f340292) 
-* [Using Data Science for Customer Acquisition](https://towardsdatascience.com/using-data-science-for-customer-acquisition-2001525792f)
-* [Tuning a Model’s Hyperparameters and Aiming for a Specific Metric in Accordance with the Business Scenario](https://towardsdatascience.com/tuning-a-models-hyperparameters-and-aiming-for-a-specific-metric-in-accordance-with-the-business-3c47d534ed3b)
+#* [Buying a car as a Data Scientist](https://towardsdatascience.com/buying-a-car-as-a-data-scientist-5a2f9f340292) 
+#* [Using Data Science for Customer Acquisition](https://towardsdatascience.com/using-data-science-for-customer-acquisition-2001525792f)
+#* [Tuning a Model’s Hyperparameters and Aiming for a Specific Metric in Accordance with the Business Scenario](https://towardsdatascience.com/tuning-a-models-hyperparameters-#and-aiming-for-a-specific-metric-in-accordance-with-the-business-3c47d534ed3b)
 
 
 
@@ -59,8 +57,8 @@
 
 ---
 
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
+<img align="left" alt="Gabriela's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bgabiza&show_icons=true&hide_border=true" />
 
-[medium]: https://medium.com/@cabreirajm
-[linkedin]: linkedin.com/in/cabreirajm
-[instagram]: https://instagram.com/jhon_cabreira
+[medium]: https://medium.com/@bsgabieng
+[linkedin]: linkedin.com/in/bsgabieng
+[instagram]: https://instagram.com/bgabizz
