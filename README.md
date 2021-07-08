@@ -35,9 +35,6 @@
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
 
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fengdashboard.blogspot.com%2F2018%2F04%2Fhow-to-add-jupyter-notebook-icon-in.html&psig=AOvVaw39_ciR-29ybS_2Hw7Xvw0_&ust=1625865240687000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPDm6pSy1PECFQAAAAAdAAAAABAI" />](https://jupyter.org/)
-
-
 <br />
 <br />
 
