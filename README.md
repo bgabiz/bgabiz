@@ -25,7 +25,7 @@
 
 [<img align="left" alt="C++" width="40px" src="https://e7.pngegg.com/pngimages/251/949/png-clipart-computer-icons-c-others-text-logo.png" />](https://e7.pngegg.com/pngimages/251/949/png-clipart-computer-icons-c-others-text-logo.png)
 
-<img align="left" alt="Azure" width="26px" src="https://www.parkmycloud.com/wp-content/uploads/2018/02/Azure_.png" />
+<img align="left" alt="PyQt 5" width="26px" src="https://i0.wp.com/clay-atlas.com/wp-content/uploads/2019/08/Python_PyQt5.png?resize=982%2C1024&ssl=1" />
 
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
 
