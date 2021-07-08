@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />](https://www.linkedin.com/in/bsgabieng/)
+[<img align="left"  width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/bsgabieng/)
 
 [<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@bsgabieng)
 
@@ -47,7 +47,7 @@
 
 ---
 
-<img align="left" alt="Gabriela's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bgabiza&show_icons=true&hide_border=true" />
+<img align="left" alt="Gabriela's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bgabiz&show_icons=true&hide_border=true" />
 
 [medium]: https://medium.com/@bsgabieng
 [linkedin]: linkedin.com/in/bsgabieng
