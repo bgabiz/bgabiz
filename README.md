@@ -21,19 +21,22 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+[<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />](https://www.python.org/)
 
-[<img align="left" alt="C++" width="40px" src="https://e7.pngegg.com/pngimages/251/949/png-clipart-computer-icons-c-others-text-logo.png" />](https://e7.pngegg.com/pngimages/251/949/png-clipart-computer-icons-c-others-text-logo.png)
+[<img align="left" alt="C++" width="40px" src="https://e7.pngegg.com/pngimages/251/949/png-clipart-computer-icons-c-others-text-logo.png" />](http://www.cplusplus.org/)
 
-<img align="left" alt="PyQt 5" width="26px" src="https://i0.wp.com/clay-atlas.com/wp-content/uploads/2019/08/Python_PyQt5.png?resize=982%2C1024&ssl=1" />
+[<img align="left" alt="PyQt 5" width="26px" src="https://i0.wp.com/clay-atlas.com/wp-content/uploads/2019/08/Python_PyQt5.png?resize=982%2C1024&ssl=1" />](https://pypi.org/project/PyQt5/)
 
-<img align="left" alt="OpeCv" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
+[<img align="left" alt="OpeCv" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />](https://opencv.org/)
 
-<img align="left" alt="Matlab" width="26px" src="https://user-images.githubusercontent.com/12914030/124988931-ff2c6780-e014-11eb-843d-e6c963c1608a.png" />
+[<img align="left" alt="Matlab" width="26px" src="https://user-images.githubusercontent.com/12914030/124988931-ff2c6780-e014-11eb-843d-e6c963c1608a.png" />](https://www.mathworks.com/products/matlab.html)
 
-<img align="left" alt="SciPy" width="26px" src="https://static.wixstatic.com/media/2826fb_58f8e3139f6a4c24b546acad1a73a4d2~mv2.png/v1/fill/w_184,h_164,al_c,q_85,usm_0.66_1.00_0.01/SciPy%20Icon.webp" />
+[<img align="left" alt="SciPy" width="26px" src="https://static.wixstatic.com/media/2826fb_58f8e3139f6a4c24b546acad1a73a4d2~mv2.png/v1/fill/w_184,h_164,al_c,q_85,usm_0.66_1.00_0.01/SciPy%20Icon.webp" />](https://www.scipy.org/)
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
+
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FProjeto_Jupyter&psig=AOvVaw39_ciR-29ybS_2Hw7Xvw0_&ust=1625865240687000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPDm6pSy1PECFQAAAAAdAAAAABAD" />](https://jupyter.org/)
+
 
 <br />
 <br />
